@@ -1,6 +1,7 @@
 # 7382-Team-C-2020
-Team Juan Camilo Garcia Cuevas, Lazzaro Boivin and Mathias Glorieux
+Team Juan Camilo Garcia Cuevas and Mathias Glorieux
 
+This is a fork. The project code was initially uploaded elsewhere.
 
 ----------------------------USER MANUAL-------------------------------
 
